@@ -1,12 +1,12 @@
 # Francine 01: A Spy
 
-###### [< Back to Fracine's Journey](../francine/)
+##### [:rewind: Back to Fracine's Journey](../francine/)
 
 > **Chaos:** 5
 >
 > **Description:** Spy & investment (64 & 54)
 >
-> **Interpretation:** Francine catches a kobold spy during her patrol
+> **Interpretation:** Francine catches a kobold spy during her patrol.
 
 ---
 #### *(Somewhere in the forest)*
@@ -19,7 +19,7 @@ She can barely hear its steps but it seems to be slowing down. She stealthily wa
 
 The sound of rustling leaves replaces the sound of twigs snapping. A berry bush about 100ft is moving but she can't see what's causing it. She walks around and, at about 50ft or so from her, she spots it: a kobold. Without a moment's hesitation, she fires. She aims for the creature's legs to disable and, hopefully, interrogate it.
 
-> Attack hits! (17 + 5 = 22 vs AC 12)
+> **Attack hits!** (17 + 5 = `22 vs AC 12`)
 
 She finds her mark and before the creature realizes it, its legs are tied together. It falls down face-first into the bush. Not wanting more trouble, she dashes, takes out her dagger, grabs its berry-stained snout, holds it shut, pulls it up, and presses her weapon around its neck.
 
@@ -54,18 +54,18 @@ As much as she wanted to kill the thing, it is weird that it seems to be alone. 
     Only me.
 ```
 
-> Insight check fail (2 + 2 = 4 vs DC 9 = 8 + 1 [8 + 1d6])
+> **Insight check fails.** (2 + 2 = `4 vs DC 9` = 8 + 1 (8 + 1d6))
 >
-> Are there other kobolds around? Exceptional yes (Very likely, 12)
+> **Are there other kobolds around? Exceptional yes!** (Very likely, 12)
 
 There were about half a dozen kobolds and another much taller figure watching the scene. She, despite the situation going against everything she knows, believes the creature. She can not bring herself to kill this helpless thing but she can't also let this go. She decides to take it back to town and let the others decide its fate.
 
 She hits it with the butt of her dagger.
 
 
-> Attack with advantage hits! (Attack 16 | 19 + 5 = 24 vs AC 12)
+> **Attack with advantage hits!** (~~16~~ | 19 + 5 = `24 vs AC 12`)
 >
-> Damage of 5 (2 + 3)
+> **Damage of 5.** (2 + 3)
 
 The dagger's butt squarely hits it at the top of its head, knocking it unconscious. She uses some more rope to tie its snout and hands. She also ties its feet and uses that to drag it on her way back.
 
@@ -110,7 +110,7 @@ Just like her, the captain finds this very odd because they've never seen a kobo
 
 Eager to eat and get some sleep, she gives the rope to the captain.
 
-> Does the captain take care of it? Yes (50/50, 48)
+> **Does the captain take care of it? Yes.** (50/50, 48)
 
 ```
     CAPTAIN
@@ -134,3 +134,6 @@ Without looking back, she gives him a thumbs up followed by a less friendly hand
 ```
 
 She laughs and continues walking.
+
+#### [Francine 02: An Ambush :fast_forward:](02-an-ambush.html)
+##### [:rewind: Back to Fracine's Journey](../francine/)

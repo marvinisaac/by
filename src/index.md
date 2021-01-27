@@ -2,8 +2,7 @@
 sidebar: auto
 ---
 
-# Written by Marvin
+# Table of Contents
 
-## Test
-
-## Another
+## [Solo D&D Playthroughs](solo-dnd/)
+- [Francine](solo-dnd/francine/)

@@ -1,3 +1,6 @@
 # Francine's Journey
 
-- [A Spy](01-a-spy.html)
+###### [< Back to Solo D&D Playthroughs](../)
+
+1. [The Spy](01-the-spy/)
+2. [An Ambush](02-an-ambush/)
