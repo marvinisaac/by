@@ -1,4 +1,4 @@
-# Solo D&D Playthrough
+# Solo D&D Playthroughs
 
 - [White Dragon's Blood](white-dragons-blood)
 - [Francine](francine/)

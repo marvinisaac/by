@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Written By Marvin',
-    description: 'Collection of stories, musings, and whatnots by me',
+    title: 'Wrotten By Marvin',
+    description: 'Collection of stories, musings, and whatnots all wrotten by Marvin',
     themeConfig: {
         lastUpdated: false,
         nav: [{

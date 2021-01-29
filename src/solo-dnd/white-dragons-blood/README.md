@@ -2,7 +2,7 @@
 
 - - -
 
-1. [Prologue: The Departure](00-prologue-the-departure)
+- [Prologue: The Departure](00-prologue-the-departure)
 
 - - -
 
