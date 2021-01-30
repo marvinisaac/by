@@ -1,10 +1,13 @@
 ---
-title: "White Dragon's Blood: 01 The Departure"
-description: "The beginning of the sibling's quest for the white dragon's blood"
+title: "White Dragon's Blood | The Departure"
+description: ""
+prev: /dnd/solo/white-dragons-blood/
+next: false
 ---
-# Prologue: The Departure
 
-- - -
+# White Dragon's Blood
+### The Departure
+
 > **DATE** Jan 29
 >
 > **LOCATION** Saltsong
@@ -112,7 +115,3 @@ They walk outside the town into the waiting coach cab. Francine seats beside the
 - Gold : 44gp
 - Rations : 4pcs
 :::
-
-- - -
-
-<sub>[:rewind: Back to White Dragon's Blood](../white-dragons-blood)</sub>
