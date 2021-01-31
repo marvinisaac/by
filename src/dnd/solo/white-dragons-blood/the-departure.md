@@ -1,8 +1,8 @@
 ---
-title: "White Dragon's Blood | The Departure"
+title: "The Departure | White Dragon's Blood"
 description: ""
 prev: /dnd/solo/white-dragons-blood/
-next: false
+next: /dnd/solo/white-dragons-blood/welcome-to-phandalin
 ---
 
 # White Dragon's Blood
