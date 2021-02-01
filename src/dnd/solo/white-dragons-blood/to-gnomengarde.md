@@ -18,12 +18,12 @@ next: false
 > Do they see or hear anything while passing south of Phandalin? No
 > > `Mythic 50/50, [1d100] = 54`
 
-Francine and Mikael walk to the southern part of the town with the intent of reaching the mountains and then walking along its foot to try and find Gnomengarde.
+Francine and Mikael walk to the southern part of the town with the intent of reaching the mountains. From there, they plan on walking along its foot to try and find Gnomengarde.
 
 > Where is the dragon? Dragon Barrow
 > > `[1d20] = 4`
 
-They stumble upon a stream that is coming out of a concavity carved by a waterfall in the mountain's side. Walking inside, the place is dark even though the sun is at its highest. A combination of plant life and mountain features block any light from getting in. Once their eyes adjusted, they see small islands surrounded by a pool of water with big, colorful mushrooms growing on them. They also notice multiple cave entrances, all perched atop sheer, rocky slopes.
+They stumble upon a stream that is coming out of a concavity carved by a waterfall in the mountain's side. Walking inside, the place is dark even though the sun is at its highest. A combination of plant life and mountain features block any light from getting in. Once their eyes adjusted, they see small islands surrounded by a pool of water. Big, colorful mushrooms fill the islands. They also notice several cave entrances, all perched atop sheer, rocky slopes.
 
 ```
     FRANCINE
@@ -33,14 +33,14 @@ They stumble upon a stream that is coming out of a concavity carved by a waterfa
 > Was she able to climb? Yes
 > > `Athletics check: [1d20 + 1] 20 + 1 = 21 vs DC 13`
 
-She easily scales the 30ft slope. She raises her hands with five fingers all spread out and checks the area. Right from where she's standing, she can see two figures who seems to be sleeping. She spends a second or two to check if they sensed her but they didn't show any reaction.
+She easily scales the 30ft slope. She raises her hands with five fingers all spread out and checks the area. Right from where she's standing, she can see two figures who seem to be sleeping. She spends a second or two to check if they sensed her but they didn't show any reaction.
 
 She goes back to the edge of the slope, signals Mikael to be quiet, and throws down some rope.
 
 > Was he able to climb? Yes
 > > `Athletics check with advantage: [1d20 + 2] 4|13 + 2 = 15 vs DC 13`
 
-He catches his breath upon reaching level ground. After giving him a moment, she taps his shoulder points to the sleeping figures.
+He catches his breath upon reaching the top. After giving him a moment, she taps his shoulder points to the sleeping figures.
 
 ```
     FRANCINE (WHISPERING)
@@ -60,7 +60,7 @@ She nods but takes a step, one hand clutching her bow on her back and the other 
     Who are you?! What are you doing here?!
 ```
 
-All the other gnomes have their arms outstreched and pointed to Mikael.
+All the other gnomes have their arms outstretched and pointed to Mikael.
 
 ```
     MIKAEL
@@ -71,7 +71,7 @@ Hearing "dragon", they all lower their hands and look at one another. The male g
 
 ```
     MALE GNOME (LOOKING UP)
-    I am Zook. Is it normal for you to barge in to other people's bedrooms?
+    I am Zook. Is it normal for you to barge into other people's bedrooms?
 
     MIKAEL (KNEELING DOWN)
     Again, I'm very sorry. This was the closest entrance we could find.
@@ -80,7 +80,7 @@ Hearing "dragon", they all lower their hands and look at one another. The male g
     You startled us, that's all. I can't remember the last time we got any human visitors here. Anyway, if you want some help, our best inventors are Fibblestib and Dabbledob. Let me take you to them.
 ```
 
-Zook walks ahead to the next room, behind him is Mikael and Francine. As soon as Francine is out of sight, the rest of gnomes go back to sleep.
+Zook walks ahead to the next room, behind him is Mikael and Francine. As soon as Francine is out of sight, the rest of the gnomes go back to sleep.
 
 ```
     ZOOK
@@ -90,7 +90,7 @@ Zook walks ahead to the next room, behind him is Mikael and Francine. As soon as
     Hey! We have some visitors. Says they are here to defeat the dragon.
 ```
 
-Two gnomes, a female and a male, look at Zook and quickly to Mikael and Francine.
+Two gnomes, a female and a male look at Zook and at Mikael and Francine.
 
 ```
     MALE GNOME (GNOMISH)
@@ -131,7 +131,7 @@ Dabbledob and Fibblestib return to arguing in Gnomish. Zook looks back to Franci
     Can we talk to your king?
 
     ZOOK (GNOMISH)
-    Hey! They want to talk King Korboz.
+    Hey! They want to talk to King Korboz.
 
     FIBBLESTIB (COMMON)
     Come with me.
@@ -147,7 +147,7 @@ They walk up a flight of stairs and narrow corridor before arriving at a door.
     Are you sure they are not shapechangers?
 
     MIKAEL (INTERRUPTS FIBBLESTIB)
-    Good day King Korboz! We are humans who have come to Phandalin to defeat a dragon. We are here to ask for your help but it seems you have problems of your own. Maybe we can help each other?
+    Good day, King Korboz! We are humans who have come to Phandalin to defeat a dragon. We are here to ask for your help but it seems you have problems of your own. Maybe we can help each other?
 
     KING KORBOZ
     Bring me proof that you have taken care of the shapechanger and we will help you defeat the dragon.
@@ -196,7 +196,7 @@ The king waits for a few seconds.
     Yes.
 
     KING KORBOZ
-    The rug in the throne room almost killed me when I stepped on it. We also haven't seen Orryn and Warryn in the last tenday, I believe that shapechanger is responsible for that as well. I can't lose Gnerkli, please kill it!
+    The rug in the throne room almost killed me when I stepped on it. We also haven't seen Orryn and Warryn in the last tenday. I believe that the shapechanger is responsible for that as well. I can't lose Gnerkli, please kill it!
 
     FRANCINE (WHISPERING)
     Then it can be anything around us.
@@ -218,7 +218,7 @@ After some time, Fibblestib returns with some green bread and mushroom wine. He 
 
 ```
     MIKAEL
-    Can you assist us into each and every room here? I think we have a way to flush out this shapechanger.
+    Can you assist us in each room here? I think we have a way to flush out this shapechanger.
 
     FIBBLESTIB
     I'm afraid that's not possible. You are our guests but you are not allowed...
@@ -227,7 +227,7 @@ After some time, Fibblestib returns with some green bread and mushroom wine. He 
     Assist them!
 
     FIBBLESTIB (AFRAID AND CONFUSED)
-    Yes sire.
+    Yes, sire.
 
     (looks to Francine and Mikael)
     Follow me.
@@ -264,14 +264,14 @@ One of the barrels moved a teeny tiny bit in response to the loud voice. Francin
     There!
 ```
 
-With his shield and mace ready, he walks to the barrel and speaks again. Seeing this, Francine readies draws her bow and points it to the barrel. Fibblestib, already some distance from the siblings, moves farther back.
+With his shield and mace ready, he walks to the barrel and speaks again. Seeing this, Francine readies draws her bow, and points it to the barrel. Fibblestib, already some distance from the siblings, moves farther back.
 
 ```
     MIKAEL (SHOUTING)
     In the name of Apollo, show your true form or be stricken down!
 ```
 
-> Was he able to intimadate whatever the barrel really is? No
+> Was he able to intimidate  whatever the barrel really is? No
 > > `Intimidation check: [1d20 + 0] 11 + 0 = 11 vs DC 15`
 
 ```
@@ -279,7 +279,7 @@ With his shield and mace ready, he walks to the barrel and speaks again. Seeing 
     I do not answer to any god!
 ```
 
-Tentacles sprout from the bottom of the barrel, the middle splits in half exposing a gaping maw, and the mimic shows its true form. Fibblestib is shouting as he runs away from the fight.
+Tentacles sprout from the bottom of the barrel. The middle splits in half exposing a gaping maw, and the mimic shows its true form. Fibblestib is shouting as he runs away from the fight.
 
 ::: details PRE-BATTLE LOG
 > Adjusted mimic stats to around CR1 from CR2 
@@ -383,7 +383,7 @@ Francine attacks with her `Longbow` for `8 piercing damage`.
 > Mimic is dead.
 :::
 
-With arrows sticking out, half of its body burnt, and some of its tentacles still squirming on the floor, the mimic is no more. Francine pulls out of her on arrows and, as she expected, purple bits and pieces clinged to it.
+With arrows sticking out, half of its body burnt, and some of its tentacles still squirming on the floor, the mimic is no more. Francine pulls out of her on arrows and, as she expected, purple bits and pieces clung to it.
 
 ```
     FRANCINE
@@ -394,7 +394,7 @@ The siblings walk back to the kings' bedroom. They see Fibblestib peeking behind
 
 ```
     MIKAEL
-    Don't worry, we've taken care of it. Can you accompany us to the kings' bedroom?
+    Don't worry, we've taken care of it. Can you go with us to the kings' bedroom?
 ```
 
 Fibblestib slowly walks up, sees the arrow, and leads them back to the bedroom.
@@ -404,7 +404,7 @@ Fibblestib slowly walks up, sees the arrow, and leads them back to the bedroom.
     Sire, we've done it and we have proof.
 
     FIBBLESTIB
-    They killed it sire! I saw everything!
+    They killed it, sire! I saw everything!
 
     KING KORBOZ
     They have killed the shapechanger?!
@@ -430,7 +430,7 @@ He hands the arrow to Fibblestib and Dabbledob. Fibblestib smells it and immedia
     Well? What is it?
 
     DABBLEDOB
-    Tt certainly looks organic, possibly magical like a shapechanger.
+    It certainly looks organic, possibly magical like a shapechanger.
 
     FIBBLESTIB
     It is! I saw one of the barrels transform. It became a huge mouth!
@@ -439,7 +439,7 @@ He hands the arrow to Fibblestib and Dabbledob. Fibblestib smells it and immedia
     That's exactly it! A huge mouth that can easily swallow a gnome whole!
 ```
 
-The king shudders a little bit then lets out a big sigh of relief. He runs back into the room, rummages for something, and another could be heard from the inside.
+The king shudders a little bit then lets out a big sigh of relief. He runs back into the room, rummages for something, and another voice can be heard from the inside.
 
 ```
     KING GNERKLI
@@ -451,7 +451,7 @@ The king shudders a little bit then lets out a big sigh of relief. He runs back 
 
 He points to Francine and the siblings tell him everything. They then walk back to the cellar where a lot of gnomes are now congregating. As soon as the kings come into view, they scatter and give way.
 
-Most of the purple goo has now seeped through the cracks on the floor but enough of it remain for the kings to be convinced.
+Most of the purple goo has now seeped through the cracks on the floor but enough of it remains to convince the kings.
 
 ```
     KING GNERKLI
@@ -462,7 +462,7 @@ And the kings hug each other.
 
 - - -
 
-The kings called for a feast (of green bread and mushroom wine) to honor the adventurers and everyone is now cramped into the gnomes dining room.
+The kings called for a feast (of green bread and mushroom wine) to honor the adventurers. Everyone is now crammed into the gnomes dining room.
 
 ```
     KING KORBOZ
@@ -478,7 +478,7 @@ The kings called for a feast (of green bread and mushroom wine) to honor the adv
     And get some things from the treasury as well. Anything that might be useful in their quest.
 
     FIBBLESTIB & DABBLEDOB (IN UNISON)
-    Yes sire.
+    Yes, sire.
 ```
 
 ::: details GAME LOG

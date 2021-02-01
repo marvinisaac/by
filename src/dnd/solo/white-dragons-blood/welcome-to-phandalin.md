@@ -27,7 +27,7 @@ With no one except the two of them, Francine and Mikael were able to get a good 
     Please, do everything to save our town. If you succeed, I promise to take you anywhere for free.
 
     (closes his eyes)
-    Apollo guide you.
+    May Apollo guide you.
 ```
 
 Mikael bows to the driver as he turns around. He is carrying most of their things except for her sister's weapons.
@@ -43,14 +43,14 @@ Mikael bows to the driver as he turns around. He is carrying most of their thing
     Thank you. I'll go ahead and check the town.
 ```
 
-On her way in, she first sees the town's general store. They have come prepared so she continue walking. She sees the two-story inn and she thinks for a second...
+On her way in, she first sees the town's general store. They have come prepared so she continues walking. She sees the two-story inn and she thinks for a second...
 
 ```
     FRANCINE (TO HERSELF)
     The sun is still up, we have a lot of time.
 ```
 
-Almost next to the inn, just across the street, is what looks to be the town hall. It has stone walls, a wooden roof, and a tall bell tower at the back. Curiously, the door is closed. There are some notices at the board, all written by the same hand. The largest of the four read:
+Almost next to the inn, across the street, is what looks to be the town hall. It has stone walls, a wooden roof, and a tall bell tower at the back. Curiously, the door is closed. There are some notices on the board, all written by the same hand. The largest of the four read:
 
 ::: tip NOTICE ADVENTURERS
 For any questions, knock on the house at the back.
@@ -106,7 +106,7 @@ She hurries back along the trail to share the information with his brother.
 
 ```
     MIKAEL
-    Huh? Are you sure you did not see anyone with a bow come in here.
+    Huh? Are you sure you did not see anyone with a bow come in here?
 
     MAN
     Yes, I'm pretty sure. Aside from you, only my usual patrons have come through here today.
@@ -118,27 +118,27 @@ She hurries back along the trail to share the information with his brother.
     I'm Mikael, by the way. My sister and I are here because of rumors of a dragon nearby. Do you know anything about that?
 
     MAN
-    Pleased to meet you Mikael! I am Toblen but they call me Toby here.
+    Pleased to meet you, Mikael! I am Toblen but they call me Toby here.
 
     (clears his throat)
-    Ah, yes. Everyone has their own version of it but, personally, I haven't seen it yet. I prefer staying inside, you see, but not like that coward of a townmaster, Harbin. He doesn't even open the door to talk to people. Coward!
+    Ah, yes. Everyone has their own version of it but, personally, I haven't seen it yet. I prefer staying inside, you see, but not like that coward of a town master, Harbin. He doesn't even open the door to talk to people. Coward!
 ```
 
 Toby grits his teeth for a second before composing himself.
 
 ```
     TOBY
-    Sorry about that, I just hate people like that. Anyway, yes, the rumors are true. There's a dragon here in Phandalin and if you want to defeat it, Stonehill Inn is the best place to stay!
+    Sorry about that, I hate people like that. Anyway, yes, the rumors are true. There's a dragon here in Phandalin and if you want to defeat it, Stonehill Inn is the best place to stay!
 ```
 
 Toby laughs at his self-promotion attempt. He knows there's only one other alternative in the area but that is probably too expensive for the guy he's talking to.
 
 ```
     MIKAEL
-    Thank you. Let me just find my sister, I'll be back.
+    Thank you. Let me find my sister, I'll be back.
 ```
 
-Just as Mikael is about to exit the inn, Francine sees him and runs towards him.
+As Mikael is about to exit the inn, Francine sees him and runs towards him.
 
 ```
     FRANCINE

@@ -25,7 +25,7 @@ A female figure bursts into a humble building at the center of town. Her backpac
     If we don't go now, we will lose everything. And that includes this temple!
 ```
 
-His gaze falls on the floor, his shoulders slumps, and he sighs in resignation. He turns around and, while holding the amulet around his neck close to his lips, says a silent prayer.
+His gaze falls on the floor, his shoulders slump, and he sighs in resignation. He turns around and, while holding the amulet around his neck close to his lips, says a silent prayer.
 
 ```
     MALE CLERIC (WHISPERING)
