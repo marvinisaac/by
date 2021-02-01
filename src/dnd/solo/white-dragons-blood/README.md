@@ -7,3 +7,4 @@ next: false
 
 - [The Departure](the-departure)
 - [Welcome to Phandalin](welcome-to-phandalin)
+- [To Gnomengarde](to-gnomengarde)

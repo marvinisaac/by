@@ -103,7 +103,7 @@ They walk outside the town into the waiting coach cab. Francine seats beside the
     Hold on everyone. Ya! 
 ```
 
-:::details Game Log
+::: details GAME LOG
 - **EXPENSES**
 - Ration: 3gp (5sp x 6pcs)
 - Coach cab: 3gp (3cp/mi x 100mi)

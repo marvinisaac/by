@@ -266,8 +266,6 @@ One of the barrels moved a teeny tiny bit in response to the loud voice. Francin
 
 With his shield and mace ready, he walks to the barrel and speaks again. Seeing this, Francine readies draws her bow and points it to the barrel. Fibblestib, already some distance from the siblings, moves farther back.
 
-###### *Battle (Take 1)*
-
 ```
     MIKAEL (SHOUTING)
     In the name of Apollo, show your true form or be stricken down!
@@ -283,15 +281,20 @@ With his shield and mace ready, he walks to the barrel and speaks again. Seeing 
 
 Tentacles sprout from the bottom of the barrel, the middle splits in half exposing a gaping maw, and the mimic shows its true form. Fibblestib is shouting as he runs away from the fight.
 
-::: details TURN 1 LOG
+::: details PRE-BATTLE LOG
+> Adjusted mimic stats to around CR1 from CR2 
+>
+> > Attack bonus: +3 from +5
+> >
+> > Bite damage: 5 piercing + 4 acid damage from 7 piercing + 4 acid damage
 
 **INITIATIVE**
 - Mikael: 16 `17 - 1 [1d20 - 1]`
 - Mimic: 16 `16 [1d20]`
 - Francine: 14 `14 + 3 [1d20 + 3]`
+:::
 
-- - -
-
+::: details TURN 1 LOG
 Mikael hits Mimic with `Guiding Bolt` for `9 radiant damage`.
 > Attack: `AC 12 vs 15 = 10 + 5 [1d20 + 5]`
 >
@@ -300,7 +303,7 @@ Mikael hits Mimic with `Guiding Bolt` for `9 radiant damage`.
 > Mimic HP: `49 / 58`
 
 Mimic tries to `Bite` Mikael but misses.
-> Attack: `AC 18 vs 16 = 11 + 5 [1d20 + 5]`
+> Attack: `AC 18 vs 14 = 11 + 3 [1d20 + 3]`
 
 Francine attacks with her `Longbow` for `6 piercing damage`.
 > Attack: `AC 12 vs 22 = 15|8 + 7 [1d20 + 7]`
@@ -310,10 +313,10 @@ Francine attacks with her `Longbow` for `6 piercing damage`.
 > Mimic HP: `43 / 58`
 :::
 
-Mikael clutches his amulet for a second and calls upon Apollo to smite the monster. Francine also pulls back on her bow and releases her shot.
+Mikael clutches his amulet and calls upon Apollo to smite the monster. Francine also pulls back on her bow and releases her shot.
 
 ::: details TURN 2 LOG
-Mikael casts `Sacred Flame` and hits Mimic.
+Mikael casts `Sacred Flame` and hits Mimic for `8 radiant damage`.
 > Mimic DEX saving throw: `DC 13 vs 6 = 5 + 1 [1d20 + 1]`
 >
 > Damage: `8 [1d8]`
@@ -321,7 +324,7 @@ Mikael casts `Sacred Flame` and hits Mimic.
 > Mimic HP: `35 / 58`
 
 Mimic tries to `Bite` Mikael but misses.
-> Attack: `AC 18 vs 8 = 3 + 5 [1d20 + 5]`
+> Attack: `AC 18 vs 6 = 3 + 3 [1d20 + 3]`
 
 Francine attacks with her `Longbow` for `6 piercing damage`.
 > Attack: `AC 12 vs 19 = 12 + 7 [1d20 + 7]`
@@ -336,7 +339,7 @@ Mikael casts `Sacred Flame` but misses.
 > Mimic DEX saving throw: `DC 13 vs 19 = 18 + 1 [1d20 + 1]`
 
 Mimic tries to `Bite` Mikael but misses.
-> Attack: `AC 18 vs 16 = 1 + 5 [1d20 + 5]`
+> Attack: `AC 18 vs 4 = 1 + 3 [1d20 + 3]`
 
 Francine attacks with her `Longbow` for `6 piercing damage`.
 > Attack: `AC 12 vs 13 = 6 + 7 [1d20 + 7]`
@@ -350,73 +353,143 @@ Francine attacks with her `Longbow` for `6 piercing damage`.
 Mikael casts `Sacred Flame` but misses.
 > Mimic DEX saving throw: `DC 13 vs 13 = 12 + 1 [1d20 + 1]`
 
-Mimic hits Mikael with `Bite` for `11 damage (7 piercing + 4 acid)`.
-> Attack: `AC 18 vs 18 = 13 + 5 [1d20 + 5]`
->
-> Damage: `11 = 7 + 4`
->
-> Mikael is knocked unconscious.
+Mimic tries to `Bite` Mikael but misses.
+> Attack: `AC 18 vs 16 = 13 + 3 [1d20 + 3]`
 
-Mimic moves next to Francine.
-
-Francine attacks with her `Dagger` but misses.
-> Attack: `AC 12 vs 8 = 3 + 5 [1d20 + 5]`
+Francine attacks with her `Longbow` for `8 piercing damage`.
+> Attack: `AC 12 vs 22 = 15 + 7 [1d20 + 7]`
+>
+> Damage: `8 = 5 + 3 [1d8 + 3]`
+>
+> Mimic HP: `12 / 58`
 :::
-
-The mimic is now worse for wear. Arrows sticking out, half of its body is burnt, and some of its tenctacles squirming on the floor. Instead of targetting his body, the mimic attempts, and miraculously succeeds, at biting Mikael's shield-wielding left hand. He drops his shield, falls to one knee and, just a few moments after, tumbles down himself.
 
 ::: details TURN 5 LOG
-Mikael's death saving throw is a success.
-> Roll: 10 [1d20]
+Mikael casts `Sacred Flame` and hits Mimic for `6 radiant damage`.
+> Mimic DEX saving throw: `DC 13 vs 7 = 6 + 1 [1d20 + 1]`
+>
+> Damage: `6 [1d8]`
+>
+> Mimic HP: `6 / 58`
 
-Mimic hits Francine with `Bite` for `11 damage (7 piercing + 4 acid)`.
-> Attack: `AC 14 vs 20 = 15 + 5 [1d20 + 5]`
->
-> Damage: `11 = 7 + 4`
->
-> Francine HP: `1 / 12`
+Mimic tries to `Bite` Mikael but misses.
+> Attack: `AC 18 vs 12 = 9 + 3 [1d20 + 3]`
 
-Francine attacks with her `Dagger` for `4 piercing damage`.
-> Attack: `AC 12 vs 17 = 12 + 5 [1d20 + 5]`
+Francine attacks with her `Longbow` for `8 piercing damage`.
+> Attack: `AC 12 vs 22 = 15 + 7 [1d20 + 7]`
 >
-> Damage: `4 = 1 + 3 [1d4 + 3]`
+> Damage: `7 = 4 + 3 [1d8 + 3]`
 >
-> Mimic HP: `16 / 58`
+> Mimic is dead.
 :::
 
-Reinvigorated by the taste of human flesh, the mimic goes after and chomps down on Francine's right foot.
+With arrows sticking out, half of its body burnt, and some of its tentacles still squirming on the floor, the mimic is no more. Francine pulls out of her on arrows and, as she expected, purple bits and pieces clinged to it.
 
-::: details TURN 6 LOG
-Mikael's death saving throw is a success.
-> Roll: 11 [1d20]
+```
+    FRANCINE
+    This should be enough to prove that we killed it.
+```
 
-Mimic tries to `Bite` Francine but misses.
-> Attack: `AC 14 vs 12 = 7 + 5 [1d20 + 5]`
+The siblings walk back to the kings' bedroom. They see Fibblestib peeking behind a wall.
 
-Francine attacks with her `Dagger` but misses.
-> Attack: `AC 12 vs 9 = 4 + 5 [1d20 + 5]`
+```
+    MIKAEL
+    Don't worry, we've taken care of it. Can you accompany us to the kings' bedroom?
+```
+
+Fibblestib slowly walks up, sees the arrow, and leads them back to the bedroom.
+
+```
+    MIKAEL
+    Sire, we've done it and we have proof.
+
+    FIBBLESTIB
+    They killed it sire! I saw everything!
+
+    KING KORBOZ
+    They have killed the shapechanger?!
+```
+
+The door bursts open and, for the first time, they see the gnome king. He is wearing a metal crown and a cloak. Francine shows him the arrow and he takes it, gives it a closer inspection, and shouts.
+
+```
+    KING KORBOZ (SHOUTING)
+    Dabbledob!
+
+    DABBLEDOB
+    Yes, sire?
+
+    KING KORBOZ
+    Can you identify what this is?
+```
+
+He hands the arrow to Fibblestib and Dabbledob. Fibblestib smells it and immediately pushes it back. Dabbledob pokes it with one of her tools.
+
+```
+    KING KORBOZ
+    Well? What is it?
+
+    DABBLEDOB
+    Tt certainly looks organic, possibly magical like a shapechanger.
+
+    FIBBLESTIB
+    It is! I saw one of the barrels transform. It became a huge mouth!
+
+    KING KORBOZ
+    That's exactly it! A huge mouth that can easily swallow a gnome whole!
+```
+
+The king shudders a little bit then lets out a big sigh of relief. He runs back into the room, rummages for something, and another could be heard from the inside.
+
+```
+    KING GNERKLI
+    You are mad! You are crazy!
+
+    KING KORBOZ
+    The shapechanger is real. You, tell him.
+```
+
+He points to Francine and the siblings tell him everything. They then walk back to the cellar where a lot of gnomes are now congregating. As soon as the kings come into view, they scatter and give way.
+
+Most of the purple goo has now seeped through the cracks on the floor but enough of it remain for the kings to be convinced.
+
+```
+    KING GNERKLI
+    You were telling the truth!
+```
+
+And the kings hug each other.
+
+- - -
+
+The kings called for a feast (of green bread and mushroom wine) to honor the adventurers and everyone is now cramped into the gnomes dining room.
+
+```
+    KING KORBOZ
+    To Francine and Mikael!
+
+    KING GNERKLI & ALL OTHER GNOMES (IN UNISON)
+    To Francine and Mikael!
+
+    KING KORBOZ
+    Fibblestib, Dabbledob, under our bed is a chest. Get its contents and give them to Francine and Mikael.
+
+    KING GNERKLI
+    And get some things from the treasury as well. Anything that might be useful in their quest.
+
+    FIBBLESTIB & DABBLEDOB (IN UNISON)
+    Yes sire.
+```
+
+::: details GAME LOG
+- **ITEMS GAINED**
+- Clockwork Amulet
+- Hat of Wizardry
+- Pole of Collapsing
+- Wand of Pyrotechnics
+
+- - -
+
+- **LEVEL UP!**
+- Level 1 to Level 2
 :::
-
-::: details TURN 7 LOG
-Mikael's death saving throw is a success and he is now stable.
-> Roll: 14 [1d20]
-
-Mimic tries to `Bite` Francine but misses.
-> Attack: `AC 14 vs 10 = 5 + 5 [1d20 + 5]`
-
-Francine attacks with her `Dagger` but misses.
-> Attack: `AC 12 vs 10 = 5 + 5 [1d20 + 5]`
-:::
-
-::: details TURN 8 LOG
-Mimic hits Francine with `Bite` for `11 damage (7 piercing + 4 acid)`.
-> Attack: `AC 14 vs 23 = 18 + 5 [1d20 + 5]`
->
-> Damage: `11 = 7 + 4`
->
-> Francine is knocked unconscious.
->
-> Party is knocked unconscious.
-:::
-
-And then her left foot, totally incapacitating her. Both of them are now down and unconscious as the mimic opens its maw, displaying what looks to be a bottomless pit.
