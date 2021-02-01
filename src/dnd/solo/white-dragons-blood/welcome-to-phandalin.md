@@ -2,7 +2,7 @@
 title: "Welcome to Phandalin | White Dragon's Blood"
 description: ""
 prev: /dnd/solo/white-dragons-blood/the-departure
-next: false
+next: /dnd/solo/white-dragons-blood/to-gnomengarde
 ---
 
 # White Dragon's Blood
