@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Phandalin | White Dragon's Blood"
-description: ""
+description: "Rumors of a dragon lead the siblings to a mining town called Phandalin"
 prev: /dnd/solo/white-dragons-blood/the-departure
 next: /dnd/solo/white-dragons-blood/to-gnomengarde
 ---

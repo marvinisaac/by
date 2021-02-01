@@ -1,6 +1,6 @@
 ---
 title: "To Gnomengarde | White Dragon's Blood"
-description: ""
+description: "The siblings seek help from the inventors in Gnomengard"
 prev: /dnd/solo/white-dragons-blood/welcome-to-phandalin
 next: false
 ---

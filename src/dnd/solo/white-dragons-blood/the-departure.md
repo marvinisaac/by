@@ -1,6 +1,6 @@
 ---
 title: "The Departure | White Dragon's Blood"
-description: ""
+description: "The siblings, Francine and Mikael, start their journey to get blood from a white dragon"
 prev: /dnd/solo/white-dragons-blood/
 next: /dnd/solo/white-dragons-blood/welcome-to-phandalin
 ---
