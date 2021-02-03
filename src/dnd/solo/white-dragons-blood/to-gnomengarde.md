@@ -2,7 +2,7 @@
 title: "To Gnomengarde | White Dragon's Blood"
 description: "The siblings seek help from the inventors in Gnomengard"
 prev: /dnd/solo/white-dragons-blood/welcome-to-phandalin
-next: false
+next: /dnd/solo/white-dragons-blood/a-talking-predator
 ---
 
 # White Dragon's Blood
@@ -271,7 +271,7 @@ With his shield and mace ready, he walks to the barrel and speaks again. Seeing 
     In the name of Apollo, show your true form or be stricken down!
 ```
 
-> Was he able to intimidate  whatever the barrel really is? No
+> Was he able to intimidate whatever the barrel really is? No
 > > `Intimidation check: [1d20 + 0] 11 + 0 = 11 vs DC 15`
 
 ```
@@ -462,7 +462,7 @@ And the kings hug each other.
 
 - - -
 
-The kings called for a feast (of green bread and mushroom wine) to honor the adventurers. Everyone is now crammed into the gnomes dining room.
+The kings called for a feast of green bread and mushroom wine to honor the adventurers. Everyone is now crammed into the dining room.
 
 ```
     KING KORBOZ
@@ -482,6 +482,11 @@ The kings called for a feast (of green bread and mushroom wine) to honor the adv
 ```
 
 ::: details GAME LOG
+- **QUEST FINISHED**
+- Gnomengarde Quest
+
+- - -
+
 - **ITEMS GAINED**
 - Clockwork Amulet
 - Hat of Wizardry

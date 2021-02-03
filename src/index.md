@@ -3,7 +3,7 @@ sidebar: false
 title: "Home"
 ---
 
-## Dungeons & Dragons
+## DUNGEONS & DRAGONS
 
 #### Adventurer's League
 - [Ury](dnd/al/ury)
