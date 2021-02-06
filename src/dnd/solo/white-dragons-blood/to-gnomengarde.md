@@ -50,7 +50,7 @@ He catches his breath upon reaching the top. After giving him a moment, she taps
     Can we at least try waking them up and talking to them first?
 ```
 
-She nods but takes a step, one hand clutching her bow on her back and the other inches away from her quiver. He takes a step forward into the entrance and sees six more sleeping figures.
+She nods but takes a step back, one hand clutching her bow on her back and the other inches away from her quiver. He takes a step forward into the entrance and sees six more sleeping figures.
 
 ```
     MIKAEL (SHOUTING)
@@ -60,7 +60,7 @@ She nods but takes a step, one hand clutching her bow on her back and the other 
     Who are you?! What are you doing here?!
 ```
 
-All the other gnomes have their arms outstretched and pointed to Mikael.
+All the other gnomes jump too. They now have their arms outstretched and pointed to Mikael.
 
 ```
     MIKAEL
@@ -90,7 +90,7 @@ Zook walks ahead to the next room, behind him is Mikael and Francine. As soon as
     Hey! We have some visitors. Says they are here to defeat the dragon.
 ```
 
-Two gnomes, a female and a male look at Zook and at Mikael and Francine.
+Two gnomes, a female and a male, look at Zook then at Mikael and Francine.
 
 ```
     MALE GNOME (GNOMISH)
@@ -233,7 +233,7 @@ After some time, Fibblestib returns with some green bread and mushroom wine. He 
     Follow me.
 ```
 
-They start in the throne room. The plan is for Mikael to cast `Thaumaturgy` on himself (to increase the volume of his voice) and `Guidance` on Francine to help her sense any reaction from the objects in the room
+They start in the throne room. The plan is for Mikael to cast `Thaumaturgy` on himself (to increase the volume of his voice) and `Guidance` on Francine to help her sense any reaction from the objects in the room.
 
 ```
     MIKAEL (SHOUTING)
@@ -264,7 +264,7 @@ One of the barrels moved a teeny tiny bit in response to the loud voice. Francin
     There!
 ```
 
-With his shield and mace ready, he walks to the barrel and speaks again. Seeing this, Francine readies draws her bow, and points it to the barrel. Fibblestib, already some distance from the siblings, moves farther back.
+With his shield and mace ready, he walks to the barrel and speaks again. Seeing this, Francine draws her bow, and points it at the barrel. Fibblestib, already some distance from the siblings, moves farther back.
 
 ```
     MIKAEL (SHOUTING)
@@ -291,7 +291,7 @@ Tentacles sprout from the bottom of the barrel. The middle splits in half exposi
 **INITIATIVE**
 - Mikael: 16 `17 - 1 [1d20 - 1]`
 - Mimic: 16 `16 [1d20]`
-- Francine: 14 `14 + 3 [1d20 + 3]`
+- Francine: 14 `11 + 3 [1d20 + 3]`
 :::
 
 ::: details TURN 1 LOG
@@ -341,7 +341,7 @@ Mikael casts `Sacred Flame` but misses.
 Mimic tries to `Bite` Mikael but misses.
 > Attack: `AC 18 vs 4 = 1 + 3 [1d20 + 3]`
 
-Francine attacks with her `Longbow` for `6 piercing damage`.
+Francine attacks with her `Longbow` for `9 piercing damage`.
 > Attack: `AC 12 vs 13 = 6 + 7 [1d20 + 7]`
 >
 > Damage: `9 = 6 + 3 [1d8 + 3]`
@@ -375,7 +375,7 @@ Mikael casts `Sacred Flame` and hits Mimic for `6 radiant damage`.
 Mimic tries to `Bite` Mikael but misses.
 > Attack: `AC 18 vs 12 = 9 + 3 [1d20 + 3]`
 
-Francine attacks with her `Longbow` for `8 piercing damage`.
+Francine attacks with her `Longbow` for `7 piercing damage`.
 > Attack: `AC 12 vs 22 = 15 + 7 [1d20 + 7]`
 >
 > Damage: `7 = 4 + 3 [1d8 + 3]`
@@ -383,7 +383,7 @@ Francine attacks with her `Longbow` for `8 piercing damage`.
 > Mimic is dead.
 :::
 
-With arrows sticking out, half of its body burnt, and some of its tentacles still squirming on the floor, the mimic is no more. Francine pulls out of her on arrows and, as she expected, purple bits and pieces clung to it.
+With arrows sticking out, half of its body burnt, and some of its tentacles still squirming on the floor, the mimic is no more. Francine pulls out one of her arrows and, as she expected, purple bits and pieces clung to it.
 
 ```
     FRANCINE
@@ -430,7 +430,7 @@ He hands the arrow to Fibblestib and Dabbledob. Fibblestib smells it and immedia
     Well? What is it?
 
     DABBLEDOB
-    It certainly looks organic, possibly magical like a shapechanger.
+    It certainly looks organic, possibly magical.
 
     FIBBLESTIB
     It is! I saw one of the barrels transform. It became a huge mouth!
@@ -454,7 +454,7 @@ He points to Francine and the siblings tell him everything. They then walk back 
 Most of the purple goo has now seeped through the cracks on the floor but enough of it remains to convince the kings.
 
 ```
-    KING GNERKLI
+    KING GNERKLI (TO KING KORBOZ)
     You were telling the truth!
 ```
 
@@ -488,10 +488,10 @@ The kings called for a feast of green bread and mushroom wine to honor the adven
 - - -
 
 - **ITEMS GAINED**
-- Clockwork Amulet
-- Hat of Wizardry
-- Pole of Collapsing
-- Wand of Pyrotechnics
+- Clockwork Amulet (Unidentified)
+- Hat of Wizardry (Unidentified)
+- Pole of Collapsing (Unidentified)
+- Wand of Pyrotechnics (Unidentified)
 
 - - -
 

@@ -73,7 +73,7 @@ He is holding his amulet with one hand while the other one is outstretched. This
     We will come back for you, little boy.
 ```
 
-Mikael's knees buckle and starts falling down. Good thing Francine is there to catch him.
+Mikael's knees buckle and he starts falling down. Good thing Francine is there to catch him.
 
 ```
     FRANCINE
