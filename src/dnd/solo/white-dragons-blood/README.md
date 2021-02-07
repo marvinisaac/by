@@ -9,3 +9,6 @@ next: false
 2. [Welcome to Phandalin](welcome-to-phandalin)
 3. [To Gnomengarde](to-gnomengarde)
 4. [A Talking Predator](a-talking-predator)
+
+### Characters
+- [Francine](francine)
