@@ -3,11 +3,6 @@ sidebar: false
 title: "Home"
 ---
 
-## ARCHIVES
-- [Keep Right](archives/keep-right)
-- [Ang Saya Mag-isa](archives/ang-saya-mag-isa)
-- [Untitled 001](archives/untitled-001)
-
 ## DUNGEONS & DRAGONS
 
 - **Adventurer's League**
