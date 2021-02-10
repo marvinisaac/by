@@ -2,7 +2,7 @@
 title: "Keep Right"
 description: "How Lolo taught me to always \"keep right\"."
 prev: /
-next: false
+next: /archives/ang-saya-mag-isa
 ---
 
 # Keep Right
