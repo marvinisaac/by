@@ -2,7 +2,7 @@
 title: "Ang Saya Mag-isa"
 description: "Ang saya mag-isa kasi, kunwari..."
 prev: /archives/keep-right
-next: false
+next: /archives/untitled-001
 ---
 
 # Ang Saya Mag-isa
