@@ -1,7 +1,7 @@
 ---
 title: "Untitled 001"
 prev: /archives/ang-saya-mag-isa
-next: false
+next: /archives/hi-i-am-marvin
 ---
 
 # Untitle 001
